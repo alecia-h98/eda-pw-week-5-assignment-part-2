@@ -6,5 +6,11 @@ header {
 
 main {
     background-color: rgb(229, 226, 226);
+    padding: 1em;
 }
+body{
+    background-image: url(record.png);
+    margin: 0;
+}
+/* you don't need to add a background-repeat rule because by default it should do that. */
 
